@@ -1,5 +1,5 @@
 {
-  "name": "@apple/app-store-server-library-for-mongo-db-atlas-function",
+  "name": "app-store-server-library-for-mongo-db-atlas-function",
   "version": "1.1.0",
   "description": "The App Store Server Library with the correct version of jsonwebtoken for use in MongoDB Atlas Functions",
   "main": "dist/index.js",
