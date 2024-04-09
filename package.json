@@ -4,7 +4,7 @@
   "description": "The App Store Server Library with the correct version of jsonwebtoken for use in MongoDB Atlas Functions",
   "main": "dist/index.js",
   "keywords": [],
-  "author": "Apple Inc.",
+  "author": "Merli Mejia",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/MerliMejia/-apple-app-store-server-library-for-mongo-db-atlas-function"
