@@ -6,6 +6,9 @@
   "keywords": [],
   "author": "Apple Inc.",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/MerliMejia/-apple-app-store-server-library-for-mongo-db-atlas-function"
+  },
   "types": "dist/index.d.ts",
   "dependencies": {
     "@types/jsonwebtoken": "8.3.0",
