@@ -7,7 +7,7 @@
   "author": "Merli Mejia",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/MerliMejia/-apple-app-store-server-library-for-mongo-db-atlas-function"
+    "url": "git+https://github.com/MerliMejia/-apple-app-store-server-library-for-mongo-db-atlas-function.git"
   },
   "types": "dist/index.d.ts",
   "dependencies": {
